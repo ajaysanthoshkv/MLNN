@@ -13,14 +13,11 @@ This project is a detailed tutorial on K-Means clustering, a powerful unsupervis
 - [Preprocessing the Data](#preprocessing-the-data)
 - [Applying K-Means Clustering](#applying-k-means-clustering)
 - [Visualization of Clustering Results](#visualization-of-clustering-results)
-- [Parameter Tuning with GridSearchCV](#parameter-tuning-with-gridsearchcv)
 - [Analysis and Results](#analysis-and-results)
 - [Practical Considerations and Best Practices](#practical-considerations-and-best-practices)
 - [Conclusion](#conclusion)
 - [Advantages and Disadvantages](#advantages-and-disadvantages)
 - [References](#references)
-- [License](#license)
-
 ## Introduction
 K-Means clustering is one of the most widely used clustering techniques in machine learning. It aims to partition a set of data points into \(k\) clusters, where each point belongs to the cluster with the nearest mean. This project provides a detailed overview of K-Means clustering, its applications, and how the choice of \(k\) influences clustering outcomes.
 
